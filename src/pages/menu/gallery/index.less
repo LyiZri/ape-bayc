@@ -1,0 +1,131 @@
+.gal-form {
+  margin-bottom: calc(10px * 4);
+  .gal-select-wrapper {
+    position: relative;
+    user-select: none;
+    width: 100%;
+    .gal-select {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      border: none;
+    }
+    .open .gal-options {
+      opacity: 1;
+      pointer-events: all;
+      visibility: visible;
+    }
+    .gal-select__trigger {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 0;
+      padding-bottom: calc(10px / 2);
+      height: auto;
+      background: #000;
+      cursor: pointer;
+      border: none;
+      border-bottom: 1px solid #bfc500;
+      margin-bottom: calc(10px * 2);
+    }
+    .gal-arrow {
+      position: relative;
+      height: 10px;
+      width: 10px;
+    }
+    .gal-arrow::after {
+      left: -4px;
+      transform: rotate(45deg);
+      background-color: #bfc500;
+    }
+    .gal-arrow::before,
+    .gal-arrow::after {
+      content: '';
+      position: absolute;
+      bottom: 0px;
+      width: 0.1rem;
+      height: 100%;
+      transition: all 0.25s;
+    }
+    .gal-arrow::before {
+      left: -10px;
+      transform: rotate(-45deg);
+      background-color: #bfc500;
+    }
+    .open .gal-arrow::before {
+      left: -10px;
+      transform: rotate(45deg);
+    }
+    .open .gal-arrow::after {
+      left: -4px;
+      transform: rotate(-45deg);
+    }
+    
+    .gal-options {
+      overflow-y: scroll;
+      scrollbar-color: #fff transparent;
+      height: 200px;
+      position: absolute;
+      display: block;
+      top: 100%;
+      left: 0;
+      right: 0;
+      border: none;
+      background: #bfc500;
+      transition: all 0.25s;
+      opacity: 0;
+      visibility: hidden;
+      pointer-events: none;
+      z-index: 2;
+      margin-top: -21px;
+      font-size: 0.9em;
+    }
+    .gal-option {
+      position: relative;
+      display: block;
+      padding: 0 22px 0 22px;
+      color: #000;
+      line-height: 60px;
+      cursor: pointer;
+      transition: all 0.25s;
+      font-weight: bold;
+    }
+    .gal-option:hover {
+      background-color: rgb(146, 150, 0);
+    }
+    .gal-select-wrapper {
+      position: relative;
+      user-select: none;
+      width: 100%;
+    }
+  }
+  
+}
+.gal-input, .gal-input:focus {
+    margin-top: 0%;
+    width: 100%;
+    border: none;
+    background-color: #000;
+    color: #bfc500;
+    padding: 0;
+    padding-bottom: calc(10px / 2);
+    font-weight: 400;
+    font-size: .8em;
+    font-style: italic;
+    border-bottom: 1px solid #bfc500;
+    border-radius: 0%;
+}
+.gal-input[type=number] {
+    -moz-appearance: textfield;
+}
+.gal-image {
+    max-width: 100%;
+    margin-bottom: calc(10px * 2);
+}
+.gal-reset {
+    margin: calc(10px * 2) !important;
+    width: 100%;
+    margin-right: auto !important;
+    margin-left: auto !important;
+}

@@ -1,0 +1,310 @@
+[{
+    "traits": {
+      "Fur": "Robot",
+      "Earring": "Silver Hoop",
+      "Clothes": "Striped Tee",
+      "Background": "Orange",
+      "Eyes": "X Eyes",
+      "Mouth": "Discomfort"
+    },
+    "imageHash": "22509ac5c12ccd8262e76261a62e475e3a6c5369668e58628c9bcee881a61ac8",
+    "tokenId": 8853,
+    "image": "https://ipfs.io/ipfs/QmRRPWG96cmgTn2qSzjwr2qvfNEuhunv6FNeMFGa9bx6mQ"
+  },
+  {
+    "traits": {
+      "Mouth": "Grin",
+      "Fur": "Robot",
+      "Clothes": "Vietnam Jacket",
+      "Background": "Orange",
+      "Eyes": "Blue Beams"
+    },
+    "tokenId": 8854,
+    "imageHash": "a52a2a999484e211e52924b87ef69a83a1ec4b0e6bc342b9f539aa2d3d3cb81a",
+    "image": "https://ipfs.io/ipfs/QmPbxeGcXhYQQNgsC6a36dDyYUcHgMLnGKnF8pVFmGsvqi"
+  },
+  {
+    "imageHash": "6c48d7ac769612f53b5278e3e60bd73496957c3473e39be6ec4286f970e2a9e5",
+    "image": "https://ipfs.io/ipfs/QmcJYkCKK7QPmYWjp4FD2e3Lv5WCGFuHNUByvGKBaytif4",
+    "traits": {
+      "Hat": "Sea Captain's Hat",
+      "Mouth": "Bored Cigarette",
+      "Background": "Aquamarine",
+      "Fur": "Robot",
+      "Eyes": "3d"
+    },
+    "tokenId": 8855
+  },
+  {
+    "tokenId": 8856,
+    "image": "https://ipfs.io/ipfs/QmYxT4LnK8sqLupjbS6eRvu1si7Ly2wFQAqFebxhWntcf6",
+    "imageHash": "219d489a69cddcc2bae9ce1acd4b8831589354f84e1cfb317b2ea1a3250583e6",
+    "traits": {
+      "Clothes": "Bone Necklace",
+      "Mouth": "Tongue Out",
+      "Fur": "Cheetah",
+      "Background": "Purple",
+      "Eyes": "Bored"
+    }
+  },
+  {
+    "imageHash": "b7c81f94ca1879c5ae59929fa721ebaf41f48f8e28596615a0df14dd706c7522",
+    "tokenId": 8857,
+    "image": "https://ipfs.io/ipfs/QmSg9bPzW9anFYc3wWU5KnvymwkxQTpmqcRSfYj7UmiBa7",
+    "traits": {
+      "Mouth": "Phoneme L",
+      "Background": "Blue",
+      "Eyes": "Closed",
+      "Fur": "Golden Brown",
+      "Hat": "Party Hat 2",
+      "Clothes": "Navy Striped Tee"
+    }
+  },
+  {
+    "imageHash": "4dccce9d7a7b12e459121e26f26938fe614c5d2029a685da72b69de97e801059",
+    "traits": {
+      "Background": "Army Green",
+      "Eyes": "X Eyes",
+      "Hat": "Bayc Flipped Brim",
+      "Fur": "Brown",
+      "Mouth": "Dumbfounded",
+      "Clothes": "Bayc T Red"
+    },
+    "tokenId": 8858,
+    "image": "https://ipfs.io/ipfs/QmNwbd7ctEhGpVkP8nZvBBQfiNeFKRdxftJAxxEdkUKLcQ"
+  },
+  {
+    "tokenId": 8859,
+    "traits": {
+      "Mouth": "Bored",
+      "Clothes": "Tweed Suit",
+      "Fur": "Cream",
+      "Background": "Yellow",
+      "Hat": "S&m Hat",
+      "Eyes": "Crazy"
+    },
+    "imageHash": "61a562be960d9b0c4d392dfe38b52e1bf95605ee44db7965622385b774ec0eb8",
+    "image": "https://ipfs.io/ipfs/QmWBgfBhyVmHNhBfEQ7p1P4Mpn7pm5b8KgSab2caELnTuV"
+  },
+  {
+    "imageHash": "7be7d10507fd00ee2b59aad86a5537d9207f1bcfbd98c58ae559167aa6ff4a1f",
+    "traits": {
+      "Fur": "Golden Brown",
+      "Background": "Gray",
+      "Hat": "Stuntman Helmet",
+      "Eyes": "Angry",
+      "Clothes": "Wool Turtleneck",
+      "Mouth": "Bored"
+    },
+    "tokenId": 8860,
+    "image": "https://ipfs.io/ipfs/QmRsJLrg27GQ1ZWyrXZFuJFdU5bapfzsyBfm3CAX1V1bw6"
+  },
+  {
+    "imageHash": "ab98da8700e7707bb6d9502c7ca2181fddaebb7c9984648a03b17a28723d61de",
+    "tokenId": 8861,
+    "traits": {
+      "Earring": "Gold Stud",
+      "Hat": "Beanie",
+      "Fur": "Zombie",
+      "Eyes": "Robot",
+      "Background": "Aquamarine",
+      "Mouth": "Bored"
+    },
+    "image": "https://ipfs.io/ipfs/QmXEqPbvM4aq1SQSXN8DSuEcSo5SseYW1izYQbsGB8yn9x"
+  },
+  {
+    "image": "https://ipfs.io/ipfs/QmUQgKka8EW7exiUHnMwZ4UoXA11wV7NFjHAogVAbasSYy",
+    "tokenId": 8862,
+    "traits": {
+      "Eyes": "Sleepy",
+      "Clothes": "Stunt Jacket",
+      "Hat": "Seaman's Hat",
+      "Background": "Purple",
+      "Fur": "Brown",
+      "Mouth": "Small Grin",
+      "Earring": "Silver Stud"
+    },
+    "imageHash": "c316f038b398c02881f6bfc499155c5c9240a0afe4ad7236348455ad4bb53a60"
+  },
+  {
+    "imageHash": "1532fbeb5ef5a81af95446dc55ee69f29aad9b21d31d465b845dbfc75ad8008a",
+    "traits": {
+      "Mouth": "Bored",
+      "Background": "Aquamarine",
+      "Fur": "Dmt",
+      "Eyes": "Eyepatch",
+      "Clothes": "Navy Striped Tee",
+      "Hat": "Bayc Hat Red"
+    },
+    "image": "https://ipfs.io/ipfs/QmPQdVU1riwzijhCs1Lk6CHmDo4LpmwPPLuDauY3i8gSzL",
+    "tokenId": 8863
+  },
+  {
+    "traits": {
+      "Clothes": "Smoking Jacket",
+      "Fur": "Dark Brown",
+      "Eyes": "Bloodshot",
+      "Mouth": "Bored Unshaven Cigarette",
+      "Hat": "Laurel Wreath",
+      "Background": "Gray"
+    },
+    "imageHash": "82bb2ea519cc9913ad9137467107b7ecf5459b368a13d6f5fe278b27e03c53ca",
+    "tokenId": 8864,
+    "image": "https://ipfs.io/ipfs/QmVvdAbabZ2awja88uUhYHFuq67iEiroFuwLGM6HyiWcc8"
+  },
+  {
+    "traits": {
+      "Background": "Army Green",
+      "Hat": "Seaman's Hat",
+      "Fur": "Brown",
+      "Clothes": "Black Holes T",
+      "Mouth": "Discomfort",
+      "Eyes": "Wide Eyed"
+    },
+    "image": "https://ipfs.io/ipfs/QmexFWUtmFNGQwVuRN8dLLwcucSFoLYjeHkv2uAyan5H8t",
+    "imageHash": "fc3dde57c63ebadea25a3cff5a218fc222fa1a53f0a83fdd1e1fd158f9374bb3",
+    "tokenId": 8865
+  },
+  {
+    "image": "https://ipfs.io/ipfs/QmaZLhanFj41yfXY3Ux1JNv6ZAnzsWXfbJmo7qbJzZjh4s",
+    "traits": {
+      "Background": "Yellow",
+      "Eyes": "Coins",
+      "Fur": "Black",
+      "Mouth": "Bored",
+      "Hat": "Police Motorcycle Helmet",
+      "Clothes": "Bone Tee"
+    },
+    "imageHash": "f32e199b6dec4c1b8c2817d2576730615a60809cf0cec412395ed3d178b79fc8",
+    "tokenId": 8866
+  },
+  {
+    "image": "https://ipfs.io/ipfs/QmbcWzteFsAvdwiaZyC1YJVNsApDaPRmqkQDyrYAvP4u48",
+    "tokenId": 8867,
+    "traits": {
+      "Background": "Orange",
+      "Earring": "Diamond Stud",
+      "Eyes": "3d",
+      "Clothes": "Tanktop",
+      "Fur": "Cheetah",
+      "Mouth": "Small Grin"
+    },
+    "imageHash": "bd71df64719642b8ff967ac0722e7161ce4626b628e8fb844d68d4e44b36c35d"
+  },
+  {
+    "image": "https://ipfs.io/ipfs/QmeGWaFNJyVpkr1LmkKye7qfUGwK9jTRW2sMxKnMDrJKtr",
+    "tokenId": 8868,
+    "traits": {
+      "Background": "Gray",
+      "Mouth": "Phoneme L",
+      "Fur": "Gray",
+      "Clothes": "Black T",
+      "Hat": "Girl's Hair Pink",
+      "Eyes": "Zombie"
+    },
+    "imageHash": "3e1cfc85ddde08967a5f47331ac90b2e95ccfacb56aa107a499d9672c5ceff8f"
+  },
+  {
+    "imageHash": "124c58099a5226e3b4664a337d7b3b3916217be35ea6bf37ce06535095c558f0",
+    "traits": {
+      "Background": "Purple",
+      "Hat": "Horns",
+      "Earring": "Silver Hoop",
+      "Fur": "Dark Brown",
+      "Mouth": "Dumbfounded",
+      "Clothes": "Bone Necklace",
+      "Eyes": "Bored"
+    },
+    "image": "https://ipfs.io/ipfs/QmapGf8z7u7f1SQv7P9r1LhjZh9B2BmmmCUS68kBjR8Fsa",
+    "tokenId": 8869
+  },
+  {
+    "traits": {
+      "Hat": "Commie Hat",
+      "Fur": "Tan",
+      "Eyes": "Closed",
+      "Background": "New Punk Blue",
+      "Clothes": "Bayc T Black",
+      "Mouth": "Bored Unshaven",
+      "Earring": "Gold Stud"
+    },
+    "image": "https://ipfs.io/ipfs/QmdLhb2BktLpSuTYyWRywRoJMFpy3hQG8RA1KJtVXj7wUf",
+    "imageHash": "2980860a3076b86eb14aa14067b1151f006d6ba91fc7c9d8e574156e1452943d",
+    "tokenId": 8870
+  },
+  {
+    "traits": {
+      "Mouth": "Bored Cigarette",
+      "Fur": "Robot",
+      "Eyes": "Cyborg",
+      "Background": "Purple",
+      "Clothes": "Vietnam Jacket"
+    },
+    "imageHash": "012537640b9400d89a3715ea92f9c3c1ae805c10f6d84101e428b3bdaf34cb19",
+    "image": "https://ipfs.io/ipfs/QmbUzseZbeM3nU6SUTQm979q7FGCMNWEqDKSZvaNUTodDk",
+    "tokenId": 8871
+  },
+  {
+    "tokenId": 8872,
+    "imageHash": "2e3cea7c534c557f3aa5dec2b2d8c626d141aab555e9d707f050d1cd701550bb",
+    "traits": {
+      "Background": "Army Green",
+      "Hat": "Bayc Hat Black",
+      "Mouth": "Rage",
+      "Eyes": "Eyepatch",
+      "Fur": "Tan"
+    },
+    "image": "https://ipfs.io/ipfs/QmRcuopgwX16miSpLtEkY5kzZS96iwwNMWjMUaqUeyA619"
+  },
+  {
+    "tokenId": 8873,
+    "image": "https://ipfs.io/ipfs/QmXkLGoGKXswr4YwkgPVfL7wmbvkRKabmh7WXmkACrgi68",
+    "imageHash": "f5bce4e0ec1a950950718f22b83951f9e580b5e12cbc8f9956db8f19ace3f638",
+    "traits": {
+      "Eyes": "3d",
+      "Background": "Blue",
+      "Mouth": "Phoneme Vuh",
+      "Hat": "Beanie",
+      "Clothes": "Bandolier",
+      "Fur": "Gray"
+    }
+  },
+  {
+    "image": "https://ipfs.io/ipfs/QmadJMqL3WWr7SdtXzNUEvusy9o3uxedTbCuXNFHQxpsNZ",
+    "tokenId": 8874,
+    "traits": {
+      "Background": "Orange",
+      "Clothes": "Black Holes T",
+      "Mouth": "Phoneme  ooo",
+      "Fur": "Black",
+      "Eyes": "Bored"
+    },
+    "imageHash": "ffabb862b125cf4e07615de59f9390801f360f28bc480471059ec71978d3d420"
+  },
+  {
+    "imageHash": "ea15b71bf9ab98171c826449cbbd3e1667f7b3ab1a2db8e26fed1eaa5482f27a",
+    "image": "https://ipfs.io/ipfs/QmSdGMvowFxFFHJr3EajE8RNsPpPyKd5mh4yNaZZegPYqn",
+    "traits": {
+      "Earring": "Gold Stud",
+      "Clothes": "Tuxedo Tee",
+      "Eyes": "Sleepy",
+      "Fur": "Zombie",
+      "Mouth": "Bored Unshaven",
+      "Background": "New Punk Blue",
+      "Hat": "S&m Hat"
+    },
+    "tokenId": 8875
+  },
+  {
+    "traits": {
+      "Hat": "Beanie",
+      "Background": "Aquamarine",
+      "Mouth": "Bored Pipe",
+      "Eyes": "Bored",
+      "Fur": "Trippy"
+    },
+    "image": "https://ipfs.io/ipfs/QmadJd1GgsSgXn7RtrcL8FePionDyf4eQEsREcvdqh6eQe",
+    "tokenId": 8876,
+    "imageHash": "a2734876a7473250aa7ff744a15a53286e24a1c20463cec5731e978bafdbbd71"
+  }
+]

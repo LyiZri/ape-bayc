@@ -1,0 +1,108 @@
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  .footer-line {
+    max-width: 90%;
+    .line {
+      border-bottom: 1px solid #fff;
+      display: block;
+      padding-top: 30px;
+      margin: 0;
+    }
+  }
+
+  .email-container {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+  }
+  .email-label {
+    font-weight: 600;
+    font-size: 20px;
+    font-style: italic;
+    color: #fff;
+  }
+  .email-flex {
+    padding-top: 20px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .email-form {
+    display: flex;
+    width: 80%;
+    margin: auto;
+  }
+  .email-input-text {
+    width: 100%;
+  }
+  .email-submit {
+    background-color: #4b4a4a;
+    border: 0ch;
+    padding: 10px 20px 10px 20px;
+    color: #fff;
+    caret-color: transparent;
+    transition: 0.3s;
+    #email-address{
+        font-family: inherit;
+    }
+  }
+  .footer-logo {
+    display: flex;
+    margin: auto;
+    margin-top: calc(-1 * 200px / 2);
+    max-width: 200px;
+    max-height: 200px;
+  }
+  .order-first {
+    order: -1;
+  }
+  .copyright {
+    font-size: 10px;
+    color: #fff;
+    line-height: 2;
+  }
+  @media only screen and (min-width: 992px) {
+    .email-form {
+      margin: unset;
+    }
+    .email-flex {
+      margin-left: 0;
+      margin-right: 0;
+      padding-top: 10px;
+    }
+    .footer-logo {
+      margin-top: 0%;
+    }
+    .email-label {
+      font-weight: 600;
+      font-size: 13px;
+      font-style: italic;
+      color: #fff;
+    }
+    .email-input-text {
+      padding: 2px;
+      padding-left: 10px;
+    }
+    .footer-padding {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+    .email-container {
+      padding: 0%;
+      text-align: left;
+    }
+    .email-submit {
+      padding: 10px;
+      line-height: 0;
+    }
+  }
+  @media screen and (max-width: 768px) {
+    .footer-logo {
+      margin-top: calc(-1 * 200px / 2);
+      max-width: 200px;
+      max-height: 200px;
+    }
+  }
+}

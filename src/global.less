@@ -1,0 +1,338 @@
+@import 'tailwind.css';
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+body {
+  background-color: #000;
+  font-family: 'Montserrat', sans-serif;
+  caret-color: transparent;
+  color: #fff;
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-align: left;
+}
+.commonContainer {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+input:focus {
+  outline: none;
+}
+.container,
+.container-fluid,
+.container-xl,
+.container-lg,
+.container-md,
+.container-sm {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.bayc-bg {
+  background-color: #bfc500;
+}
+.buy-token-container {
+  color: #000;
+  text-align: center;
+}
+.gray-line {
+  border-bottom: 1px solid #3b3b3b;
+  margin-top: 0px;
+}
+.common-sub-p {
+  text-align: justify;
+  font-size: 0.8em;
+}
+.bayc-color {
+  color: #bfc500;
+}
+
+.goal {
+  color: #bfc500;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 1em;
+}
+.bayc-button {
+  border-radius: 8px;
+  border: 0;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 5%;
+  margin: auto auto;
+  transition: 0.3s;
+}
+.link {
+  color: #bfc500;
+  text-decoration: underline;
+  word-wrap: break-word;
+}
+a:hover {
+  color: #fff;
+}
+input {
+  background-color: #272626;
+  border: 0ch;
+  padding: 10px;
+  width: 80%;
+  margin-top: 10px;
+  color: #fff;
+  caret-color: auto;
+}
+.text-right {
+  font-size: 10px;
+}
+.common-p {
+  text-align: justify;
+  font-size: 1em;
+}
+.w-100 {
+  width: 100% !important;
+}
+.ml-auto,
+.mx-auto {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+a {
+  color: #007bff;
+  text-decoration: none;
+  background-color: transparent;
+  .fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 ForkAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .social-icon {
+    color: #fff;
+    padding: 20px 10px;
+    transition: 0.3s;
+  }
+  @media only screen and (min-width: 992px) {
+    .social-icon {
+      padding: 20px;
+    }
+  }
+}
+.custom-logo {
+  position: relative;
+  margin-bottom: -37px;
+  z-index: 1;
+}
+.common-title {
+  position: sticky;
+  font-size: 1.7em;
+  font-weight: 800;
+  font-style: italic;
+}
+button:not(:disabled),
+[type='button']:not(:disabled),
+[type='reset']:not(:disabled),
+[type='submit']:not(:disabled) {
+  cursor: pointer;
+}
+button,
+[type='button'],
+[type='reset'],
+[type='submit'] {
+  -webkit-appearance: button;
+}
+button,
+select {
+  text-transform: none;
+}
+.bayc-button {
+  background-color: #bfc500;
+  border-radius: 8px;
+  color: #000;
+  border: 0;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 5%;
+  margin: auto auto;
+  transition: 0.3s;
+}
+.bayc-button:hover {
+  background-color: #fff;
+}
+.rotate {
+  position: absolute;
+  transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+  width: max-content;
+  top: 50%;
+  left: 50%;
+}
+.scroll {
+  opacity: 0.25;
+  font-size: 0.7em;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-style: italic;
+  color: #fff;
+  letter-spacing: 0.05em;
+  line-height: 0.6em;
+  animation: blinker 1.3s linear infinite;
+}
+@keyframes blinker {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@media screen and (min-width: 992px) {
+  .welcome {
+    margin-top: -269px;
+  }
+}
+.welcome {
+  background-color: #000;
+}
+.MuiCard-root {
+  overflow: hidden;
+}
+.MuiPaper-outlined {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+.MuiPaper-rounded {
+  border-radius: 4px;
+}
+.MuiPaper-root {
+  color: rgba(0, 0, 0, 0.87);
+  transition: box-shadow 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: #fff;
+}
+.MuiCardContent-root:last-child {
+  padding-bottom: 24px;
+}
+.MuiCardContent-root:last-child {
+  padding-bottom: 16px !important;
+}
+.MuiCardContent-root {
+  padding: 16px;
+}
+.MuiPaper-elevation1 {
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+}
+.MuiAccordion-root:before {
+  top: -1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  content: '';
+  opacity: 1;
+  position: absolute;
+  transition: opacity 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  background-color: rgba(0, 0, 0, 0.12);
+}
+.MuiButtonBase-root {
+  color: inherit;
+  border: 0;
+  cursor: pointer;
+  margin: 0;
+  display: inline-flex;
+  outline: 0;
+  padding: 0;
+  position: relative;
+  align-items: center;
+  user-select: none;
+  border-radius: 0;
+  vertical-align: middle;
+  -moz-appearance: none;
+  justify-content: center;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-appearance: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.MuiAccordionSummary-root {
+  display: flex;
+  padding: 0px 16px;
+  min-height: 48px;
+  transition: min-height 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    background-color 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiAccordionSummary-content {
+  margin: 12px 0;
+  display: flex;
+  flex-grow: 1;
+  transition: margin 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+[role='button'] {
+  cursor: pointer;
+}
+.MuiAccordionSummary-expandIcon {
+  transform: rotate(0deg);
+  transition: transform 150ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+.MuiIconButton-edgeEnd {
+  margin-right: -12px;
+}
+.MuiIconButton-label {
+  width: 100%;
+  display: flex;
+  align-items: inherit;
+  justify-content: inherit;
+}
+.MuiTouchRipple-root {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  overflow: hidden;
+  position: absolute;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.MuiSvgIcon-root {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  font-size: 1.5rem;
+  transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+  flex-shrink: 0;
+  user-select: none;
+}
+.MuiAccordionDetails-root {
+  display: flex;
+  padding: 8px 16px 16px;
+}
+.MuiAccordionDetails-root {
+  flex-direction: column;
+}
+.MuiCollapse-hidden {
+  visibility: hidden;
+}
+.MuiCollapse-hidden {
+  visibility: hidden;
+}
+.dropdown-menu.show {
+  display: block;
+}
+.dropdown-menu.show {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-right: 20px;
+}
+.dropdown-menu, .dropdown-item:hover {
+  background-color: #000 !important;
+}
