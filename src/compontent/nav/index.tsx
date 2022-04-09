@@ -154,19 +154,17 @@ const Nav: React.FC<Props> = (props) => {
               >
                 KENNEL CLUB
               </a>
-              <a
-                id="nav-link"
-                title="MERCH"
-                href="#/merch"
-                className="dropdown-item"
-              >
+              <a id="nav-link" title="MERCH" href="#" className="dropdown-item">
                 MERCH
               </a>
               <a
                 id="nav-link"
                 title="BATHROOM"
-                href="#/bathroom"
                 className="dropdown-item"
+                style={props.navId == '8' ? { color: '#bfc500' } : {}}
+                onClick={() => {
+                  history.push('bathroom');
+                }}
               >
                 BATHROOM
               </a>

@@ -24,6 +24,10 @@ export default defineConfig({
     baseNavigator: true,
     baseSeparator: '-',
   },
+  antd: {
+    dark: false,
+    compact: true,
+  },
   extraPostCSSPlugins: [
     require('postcss-import'),
     // require('tailwindcss')({
