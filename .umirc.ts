@@ -19,7 +19,7 @@ export default defineConfig({
   },
   locale: {
     default: 'zh-CN',
-    antd: true,
+    antd: false,
     title: false,
     baseNavigator: true,
     baseSeparator: '-',
